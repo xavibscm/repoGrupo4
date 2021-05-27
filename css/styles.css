@@ -3,7 +3,10 @@
 
 /*===== VARIABLES CSS =====*/
 
+<<<<<<< Updated upstream
 /* ===== Inicio del nuevo requerimiento para MEDIA QUERIES  =====*/
+=======
+>>>>>>> Stashed changes
 @media screen and (min-width: 576px){
     .login__forms{
       width: 348px;
@@ -50,4 +53,8 @@
       bottom: -5.5rem;
     }
   }
+<<<<<<< Updated upstream
   /*END del Cambio */
+=======
+  /*END GONZALO*/
+>>>>>>> Stashed changes
