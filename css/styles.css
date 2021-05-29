@@ -1,7 +1,6 @@
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
 
-/*===== VARIABLES CSS =====*/
 
 /*===== Parte del conflicto  =====*/
 :root{
@@ -50,8 +49,7 @@
       align-items: center;
       margin-left: 10rem;
     }
-  
-    .login__img{
+      .login__img{
       display: flex;
       width: 600px;
       height: 588px;
