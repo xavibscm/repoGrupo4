@@ -7,7 +7,7 @@
     /*===== Colores =====*/
     --first-color: #9D4BFF;
     /*===== CREACION CONFLICTO LINEA 9 Y 10=====*/
-    --first-color-dark: #5f0a0a;
+    --first-color-dark: #5f0a18;
     --first-color-light: #ac9ea0;
     --first-color-lighten: #453150;
   
@@ -26,10 +26,7 @@
   }
 
 /*===== fin Parte del conflicto  =====*/
-<<<<<<< Updated upstream
 /* ===== Inicio del nuevo requerimiento para MEDIA QUERIES  =====*/
-=======
->>>>>>> Stashed changes
 @media screen and (min-width: 576px){
     .login__forms{
       width: 348px;
